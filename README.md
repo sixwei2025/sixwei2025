@@ -31,11 +31,11 @@
 
 真实界面自动推拉运镜与红框聚焦、Voicebox 本人原声克隆配音、3:4 竖版封面内嵌第 0.01 帧，以及 3D 地形、暗黑流光数据与心理科普动画。 [实操教程视频 →](https://github.com/sixwei2025/auto-tutorial-skill) · [真人口播视频 →](https://github.com/sixwei2025/talking-head-video-skill) · [3D 地图战争 →](https://github.com/sixwei2025/3d-map-video-skill) · [暗黑数据流光 →](https://github.com/sixwei2025/dark-infographic-video-skill) · [心理科普动画 →](https://github.com/sixwei2025/psych-kepu-video-skill)
 
-## 给团队配上桌面与雷达基建
+## 给团队配上桌面与交付基建
 
-[![AI 团队驾驶舱：本地视频中心、汇芯技能管家与爆文雷达](assets/card-infra-radar-v2.jpg)](https://github.com/sixwei2025/local-video-hub)
+[![AI 团队驾驶舱：本地视频中心、汇芯技能与内容管家](assets/card-infra-radar-v3.jpg)](https://github.com/sixwei2025/local-video-hub)
 
-多 AI 员工统一交片查重的本地视频中心、汇芯技能管家、汇芯 Token 管家，以及小红书每日早 7 点 10 倍异常流量「低粉爆文」雷达。 [本地视频中心 →](https://github.com/sixwei2025/local-video-hub) · [汇芯技能管家 →](https://github.com/sixwei2025/huixin-skills-manager) · [Token 管家 →](https://github.com/sixwei2025/huixin-token-manager) · [早 7 点爆文雷达 →](https://github.com/sixwei2025/sunrise-tracker) · [内容管家 →](https://github.com/sixwei2025/huixin-content-manager) · [Antigravity 汉化 →](https://github.com/sixwei2025/antigravity-zh-solution)
+多 AI 员工统一交片查重的本地视频中心，以及汇芯技能管家、Token 管家、内容管家与 Antigravity 中文界面适配。 [本地视频中心 →](https://github.com/sixwei2025/local-video-hub) · [汇芯技能管家 →](https://github.com/sixwei2025/huixin-skills-manager) · [Token 管家 →](https://github.com/sixwei2025/huixin-token-manager) · [内容管家 →](https://github.com/sixwei2025/huixin-content-manager) · [Antigravity 汉化 →](https://github.com/sixwei2025/antigravity-zh-solution)
 
 ## 新手 30 秒安装：把链接发给 AI
 
