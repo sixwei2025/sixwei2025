@@ -33,9 +33,9 @@
 
 ## 给团队配上桌面与雷达基建
 
-[![AI 团队驾驶舱：本地视频中心、爆文雷达与桌面管家](assets/card-infra-radar.jpg)](https://github.com/sixwei2025/local-video-hub)
+[![AI 团队驾驶舱：本地视频中心、汇芯技能管家与爆文雷达](assets/card-infra-radar-v2.jpg)](https://github.com/sixwei2025/local-video-hub)
 
-多 AI 员工统一交片查重的本地视频中心、小红书每日早 7 点 10 倍异常流量「低粉爆文」雷达，以及 Mac 桌面端管家套件。 [本地视频中心 →](https://github.com/sixwei2025/local-video-hub) · [早 7 点爆文雷达 →](https://github.com/sixwei2025/sunrise-tracker) · [Skills 管家 →](https://github.com/sixwei2025/huixin-skills-manager) · [Token 管家 →](https://github.com/sixwei2025/huixin-token-manager) · [内容管家 →](https://github.com/sixwei2025/huixin-content-manager) · [Antigravity 汉化 →](https://github.com/sixwei2025/antigravity-zh-solution)
+多 AI 员工统一交片查重的本地视频中心、汇芯技能管家、汇芯 Token 管家，以及小红书每日早 7 点 10 倍异常流量「低粉爆文」雷达。 [本地视频中心 →](https://github.com/sixwei2025/local-video-hub) · [汇芯技能管家 →](https://github.com/sixwei2025/huixin-skills-manager) · [Token 管家 →](https://github.com/sixwei2025/huixin-token-manager) · [早 7 点爆文雷达 →](https://github.com/sixwei2025/sunrise-tracker) · [内容管家 →](https://github.com/sixwei2025/huixin-content-manager) · [Antigravity 汉化 →](https://github.com/sixwei2025/antigravity-zh-solution)
 
 ## 新手 30 秒安装：把链接发给 AI
 
