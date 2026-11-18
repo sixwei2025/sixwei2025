@@ -5,7 +5,15 @@
 [![Brand](https://img.shields.io/badge/台州汇芯-袁六伟-C8102E?style=flat&logo=github&logoColor=white)](https://github.com/sixwei2025)
 [![Students](https://img.shields.io/badge/实战学员-7000%2B-D97706?style=flat)](https://github.com/sixwei2025)
 [![Clients](https://img.shields.io/badge/企业商单-100%2B%20(%E8%BF%9120%E4%B8%AA%E8%A1%8C%E4%B8%9A)-2563EB?style=flat)](https://github.com/sixwei2025)
-[![Repos](https://img.shields.io/badge/开源产线-20%20Repos-059669?style=flat)](https://github.com/sixwei2025?tab=repositories)
+[![Repos](https://img.shields.io/badge/开源产线-22%20Repos-059669?style=flat)](https://github.com/sixwei2025?tab=repositories)
+
+---
+
+## 🔥 重磅开源新书：《人人都能开发 Skill》
+
+[![《人人都能开发 Skill》：85 页全书免费开源](assets/card-book-flagship.jpg)](https://github.com/sixwei2025/everyone-can-build-skills)
+
+**85 页全彩图文全书免费开源！** 零基础 10 分钟跑通第 1 个 Skill，附带 **28 篇在线 Markdown 章节**、**6 格需求卡**、**上岗前 6 项自检卡片**与 **16+ GitHub 真实开源案例拆解**。 [立即在线阅读 / 下载 PDF →](https://github.com/sixwei2025/everyone-can-build-skills) · [直接下载完整 PDF →](https://github.com/sixwei2025/everyone-can-build-skills/blob/main/book/%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E5%BC%80%E5%8F%91Skill.pdf)
 
 ---
 
@@ -43,13 +51,13 @@
 
 ```text
 帮我安装这个仓库里的技能：
-https://github.com/sixwei2025/yuanliuwei-ai-skills
+https://github.com/sixwei2025/everyone-can-build-skills
 ```
 
-安装后可以直接问 AI：「**这个技能怎么用？带我做一个最简单的例子。**」（把上面的链接换成任意一个你想安装的仓库地址即可。）
+安装后可以直接问 AI：「**这个技能怎么用？带我用 6 格需求卡设计一个最简单的 Skill。**」（把上面的链接换成任意一个你想安装的仓库地址即可。）
 
 ## 一起把 AI 产线跑通
 
 <img src="assets/connect-card.jpg" alt="关注袁六伟 · 台州汇芯：公众号、视频号与商务合作" width="100%" />
 
-**微信公众号 / 视频号**：微信搜一搜 **「袁六伟」** · [查看全部 20 个开源仓库 →](https://github.com/sixwei2025?tab=repositories)
+**微信公众号 / 视频号**：微信搜一搜 **「袁六伟」** · [查看全部 22 个开源仓库 →](https://github.com/sixwei2025?tab=repositories)
