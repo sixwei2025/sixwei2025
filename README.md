@@ -41,7 +41,7 @@
 
 ## 给团队配上桌面与交付基建
 
-[![AI 团队驾驶舱：汇芯智能体中台、本地视频中心、汇芯技能与内容管家](assets/card-infra-radar-v3.jpg)](https://github.com/sixwei2025/huixin-agent-hub)
+[![AI 团队驾驶舱：汇芯智能体中台、本地视频中心、汇芯技能与内容管家](assets/card-infra-radar-v4.jpg)](https://github.com/sixwei2025/huixin-agent-hub)
 
 **一人公司 AI 团队驾驶舱**：把 Codex、Antigravity、WorkBuddy 三引擎装进同一个中文桌面工作台并接入 Obsidian 共享上下文的 **汇芯智能体中台**，搭配多 AI 员工统一交片查重的本地视频中心，以及汇芯技能管家、Token 管家、内容管家与 Antigravity 中文界面适配。 [汇芯智能体中台 →](https://github.com/sixwei2025/huixin-agent-hub) · [本地视频中心 →](https://github.com/sixwei2025/local-video-hub) · [汇芯技能管家 →](https://github.com/sixwei2025/huixin-skills-manager) · [Token 管家 →](https://github.com/sixwei2025/huixin-token-manager) · [内容管家 →](https://github.com/sixwei2025/huixin-content-manager) · [Antigravity 汉化 →](https://github.com/sixwei2025/antigravity-zh-solution)
 
