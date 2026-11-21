@@ -5,7 +5,7 @@
 [![Brand](https://img.shields.io/badge/台州汇芯-袁六伟-C8102E?style=flat&logo=github&logoColor=white)](https://github.com/sixwei2025)
 [![Students](https://img.shields.io/badge/实战学员-7000%2B-D97706?style=flat)](https://github.com/sixwei2025)
 [![Clients](https://img.shields.io/badge/企业商单-100%2B%20(%E8%BF%9120%E4%B8%AA%E8%A1%8C%E4%B8%9A)-2563EB?style=flat)](https://github.com/sixwei2025)
-[![Repos](https://img.shields.io/badge/开源产线-22%20Repos-059669?style=flat)](https://github.com/sixwei2025?tab=repositories)
+[![Repos](https://img.shields.io/badge/开源产线-23%20Repos-059669?style=flat)](https://github.com/sixwei2025?tab=repositories)
 
 ---
 
@@ -41,9 +41,9 @@
 
 ## 给团队配上桌面与交付基建
 
-[![AI 团队驾驶舱：本地视频中心、汇芯技能与内容管家](assets/card-infra-radar-v3.jpg)](https://github.com/sixwei2025/local-video-hub)
+[![AI 团队驾驶舱：汇芯智能体中台、本地视频中心、汇芯技能与内容管家](assets/card-infra-radar-v3.jpg)](https://github.com/sixwei2025/huixin-agent-hub)
 
-多 AI 员工统一交片查重的本地视频中心，以及汇芯技能管家、Token 管家、内容管家与 Antigravity 中文界面适配。 [本地视频中心 →](https://github.com/sixwei2025/local-video-hub) · [汇芯技能管家 →](https://github.com/sixwei2025/huixin-skills-manager) · [Token 管家 →](https://github.com/sixwei2025/huixin-token-manager) · [内容管家 →](https://github.com/sixwei2025/huixin-content-manager) · [Antigravity 汉化 →](https://github.com/sixwei2025/antigravity-zh-solution)
+**一人公司 AI 团队驾驶舱**：把 Codex、Antigravity、WorkBuddy 三引擎装进同一个中文桌面工作台并接入 Obsidian 共享上下文的 **汇芯智能体中台**，搭配多 AI 员工统一交片查重的本地视频中心，以及汇芯技能管家、Token 管家、内容管家与 Antigravity 中文界面适配。 [汇芯智能体中台 →](https://github.com/sixwei2025/huixin-agent-hub) · [本地视频中心 →](https://github.com/sixwei2025/local-video-hub) · [汇芯技能管家 →](https://github.com/sixwei2025/huixin-skills-manager) · [Token 管家 →](https://github.com/sixwei2025/huixin-token-manager) · [内容管家 →](https://github.com/sixwei2025/huixin-content-manager) · [Antigravity 汉化 →](https://github.com/sixwei2025/antigravity-zh-solution)
 
 ## 新手 30 秒安装：把链接发给 AI
 
@@ -60,4 +60,4 @@ https://github.com/sixwei2025/everyone-can-build-skills
 
 <img src="assets/connect-card.jpg" alt="关注袁六伟 · 台州汇芯：公众号、视频号与商务合作" width="100%" />
 
-**微信公众号 / 视频号**：微信搜一搜 **「袁六伟」** · [查看全部 22 个开源仓库 →](https://github.com/sixwei2025?tab=repositories)
+**微信公众号 / 视频号**：微信搜一搜 **「袁六伟」** · [查看全部 23 个开源仓库 →](https://github.com/sixwei2025?tab=repositories)
